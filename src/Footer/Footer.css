@@ -1,0 +1,13 @@
+.reactIconCustomStyle{
+    font-size: 25px;    
+}
+
+.footer {    
+    background-color: azure;
+    color: rgb(44, 44, 44);
+    padding: 15px;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    width: 100%;        
+}
